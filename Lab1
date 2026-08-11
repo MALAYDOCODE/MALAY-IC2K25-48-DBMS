@@ -28,5 +28,4 @@ Output: Query OK, 0 rows affected (0.03 sec)
 Output: Query OK, 0 rows affected (0.03 sec)
 
 8. Create table  name "job_history"
--->  create table job_histry(employee_id int, start_date date, end_date date, job_id varchar(10), department_id int);
-Output: Query OK, 0 rows affected (0.03 sec)
+--> 
